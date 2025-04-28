@@ -1,0 +1,7 @@
+print('<--------------wellcome---------------->')
+a=int(input("enter the first number:"))
+print("<-------------#1.add")
+print("<-------------#2.sub")
+print("<--------------#3.div")
+print("#<-------------4.mul")
+b=input("<----------enter your coice-----------> ")
